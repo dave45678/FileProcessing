@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>FileProcessing</name>
+=======
+	<name>FIleProcessing</name>
+>>>>>>> 7f6512c7cf84fd9f0fad97ae41541c9845a98589
 	<comment></comment>
 	<projects>
 	</projects>
